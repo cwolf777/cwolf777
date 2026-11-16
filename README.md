@@ -32,7 +32,7 @@ Peer-to-Peer-Programmierausbildung ohne Lehrer, projektbasiert. Ein paar Highlig
 
 | Projekt | Worum es geht |
 |---|---|
-| [ft_transcendence](https://github.com/HelloX3030/ft_transcendence) | Abschlussprojekt im Team: Full-Stack-Web-App mit TypeScript |
+| [ft_transcendence](https://github.com/HelloX3030/ft_transcendence) | Teamprojekt **CineMates**: Social Movie Discovery per Trailer-Swipe |
 | [Inception](https://github.com/cwolf777/Inception) | Docker-Infrastruktur mit mehreren Services (NGINX, WordPress, MariaDB) |
 | [ft_irc](https://github.com/cwolf777/ft_irc) | Eigener IRC-Server in C++ |
 | [cub3d](https://github.com/cwolf777/cub3d) | 3D-Rendering per Raycasting, inspiriert von Wolfenstein 3D |
